@@ -1,0 +1,7 @@
+﻿{
+  "Enabled": true,
+  "Port": 50050,
+  "MaxRange": 64,
+  "Codec": "opus",
+  "Muffling": true
+}

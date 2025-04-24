@@ -1,0 +1,44 @@
+﻿# ------------------------
+# Build output
+bin/
+obj/
+*.user
+*.userosscache
+*.suo
+*.cache
+*.log
+
+# Rider / JetBrains
+.idea/
+
+# Visual Studio
+.vscode/
+.vs/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# NuGet / Package cache
+*.nupkg
+packages/
+
+# Vintage Story specific (if testing locally)
+Mods/*.dll
+Mods/*.pdb
+Mods/*.zip
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+*.orig
+
+# Debugging artifacts
+*.pdb
+
+# Backup files
+*~
+
+# Other potentially generated files
+*.lock.json
